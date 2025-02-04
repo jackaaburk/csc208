@@ -40,3 +40,21 @@ $3$
 
 Therefore $1 + 1 = 3$
 
+## Here is a table of more LaTeX notation that I find I will use pretty often:
+
+| Notation                 | Description                | Example                      |  
+|--------------------------|----------------------------|------------------------------|  
+| `\alpha`                 | Greek letter alpha         | $\alpha$                     |  
+| `\beta`                  | Greek letter beta          | $\beta$                      |  
+| `\sum_{i=1}^{n}`         | Summation                  | $\sum_{i=1}^{n} i$          |  
+| `\int`                   | Integral                   | $\int_a^b f(x) \, dx$      |  
+| `\frac{a}{b}`            | Fraction                   | $\frac{a}{b}$               |  
+| `x^2`                    | Superscript (squared)     | $x^2$                        |  
+| `\sqrt{a}`               | Square root                | $\sqrt{a}$                  |  
+| `\sqrt[n]{a}`            | nth root                  | $\sqrt[n]{a}$               |  
+| `a \equiv b`             | Congruence (modulo)       | $a \equiv b \pmod{m}$       |  
+| `a < b`                  | Less than                  | $a < b$                      |  
+| `a \leq b`               | Less than or equal to      | $a \leq b$                   |  
+| `a \lor b`               | Disjunction                | $a \lor b$                   |  
+| `a \land b`              | Conjunction                | $a \land b$                  |  
+| `a \propto b`            | Proportionality            | $a \propto b$                |  

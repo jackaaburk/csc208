@@ -64,3 +64,10 @@
 
 - truth conditions
 > The outcome truth value of a statement after using logical connectives.
+
+## Extra Notes
+
+- The main goal of math is to establish mathematical truths.
+- A statement is atomic if it cannot be divided into more proofs.
+- If it is not atomic, it is molecular.
+- Statements must be boolean values.

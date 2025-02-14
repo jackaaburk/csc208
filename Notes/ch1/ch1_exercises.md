@@ -18,3 +18,6 @@ C. If you substitute $10$ for $x$, the resulting statement is true.
 ## Practice Problems
 ![Q1and2](./ch1images/1and2.png)
 ![Q3and4](./ch1images/3and4.png)
+![Q5and6](./ch1images/5and6.png)
+![Q7and8](./ch1images/7and8.png)
+![Q9and10](./ch1images/9and10.png)

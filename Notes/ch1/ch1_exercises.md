@@ -85,10 +85,10 @@ ii. Jill did not pass math?
 
 (b) $\forall x \forall y (x < y \rightarrow \exists z (x < z < y))$  
 
-> - True: In the real numbers ($ \mathbb{R} $), average of $x$ and $y$ could be $z$ at any time.
-> - False: In the integers ($ \mathbb{Z} $), because there are no integers between certain consecutive numbers.
+> - True: In the real numbers ($\mathbb{R}$), average of $x$ and $y$ could be $z$ at any time.
+> - False: In the integers ($\mathbb{Z}$), because there are no integers between certain consecutive numbers.
 
 (c) $\exists x \forall y \forall z (y < z \rightarrow y \leq x \leq z)$  
 
-> - True: In natural numbers ($ \mathbb{N} $).
-> - False: In real numbers ($ \mathbb{R} $).
+> - True: In natural numbers ($\mathbb{N}$).
+> - False: In real numbers ($\mathbb{R}$).

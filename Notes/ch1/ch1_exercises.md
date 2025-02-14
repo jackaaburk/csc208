@@ -21,3 +21,35 @@ C. If you substitute $10$ for $x$, the resulting statement is true.
 ![Q5and6](./ch1images/5and6.png)
 ![Q7and8](./ch1images/7and8.png)
 ![Q9and10](./ch1images/9and10.png)
+
+## Additional Exercises
+
+### 1. Suppose P and Q are the statements:  
+- $P$ Jack passed math.  
+- $Q$ Jill passed math.  
+
+(a) Translate "Jack and Jill both passed math" into symbols.  
+
+> $P \land Q$
+
+(b) Translate "If Jack passed math, then Jill did not" into symbols.  
+
+> $P \rightarrow \neg Q$
+
+(c) Translate " $P \lor Q$ " into English.  
+
+> Jack or Jill passed math.
+
+(d) Translate " $\neg (P \land Q) \rightarrow Q$ " into English.  
+
+> "If Jack and Jill did not both pass math, then Jill passed math."
+
+(e) Suppose you know that if Jack passed math, then so did Jill. What can you conclude if you know that:  
+
+i. Jill passed math?  
+
+> We can only conclude that Jill passed math, Jill passing math does not mean Jack passed.
+
+ii. Jill did not pass math?  
+
+> The only way $P => Q$ can remain true if $Q$ is false is for $P$ to be false, therefore Jack failed.

@@ -53,3 +53,27 @@ i. Jill passed math?
 ii. Jill did not pass math?  
 
 > The only way $P => Q$ can remain true if $Q$ is false is for $P$ to be false, therefore Jack failed.
+
+### 2. Translate into symbols. Use $E(x)$ for "$x$ is even" and $O(x)$ for "$x$ is odd."
+
+(a) No number is both even and odd.
+
+> $\neg \forall x (E(x) \land O(x))$
+
+(b) One more than any even number is an odd number.
+
+> $\forall x (E(x) \rightarrow O(x+1))$
+
+(c) There is a prime number that is even.
+
+> $\exists x (P(x) \land E(x))$
+
+(d) Between any two numbers there is a third number.
+
+> $\forall x \forall y (x < y \rightarrow \exists z (x < z < y))$
+
+(e) There is no number between a number and one more than that number.
+
+> $\forall x \neg \exists y (x < y < x+1)$
+
+### 3. 

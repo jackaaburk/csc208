@@ -78,17 +78,17 @@ ii. Jill did not pass math?
 
 ### 3. For each of the statements below, give a domain of discourse for which the statement is true, and a domain for which the statement is false.
 
-(a) $ \forall x \exists y (y^2 = x) $  
->
-- True: When the domain is non-negative real numbers.
-- False: When the domain is all real numbers, because negative numbers don’t have real square roots.
+(a) $\forall x \exists y (y^2 = x)$  
 
-(b) $ \forall x \forall y (x < y \rightarrow \exists z (x < z < y)) $  
->
-- True: In the real numbers ($ \mathbb{R} $), average of $x$ and $y$ could be $z$ at any time.
-- False: In the integers ($ \mathbb{Z} $), because there are no integers between certain consecutive numbers.
+> - True: When the domain is non-negative real numbers.
+> - False: When the domain is all real numbers, because negative numbers don’t have real square roots.
 
-(c) $ \exists x \forall y \forall z (y < z \rightarrow y \leq x \leq z) $  
->
-- True: In natural numbers ($ \mathbb{N} $).
-- False: In real numbers ($ \mathbb{R} $).
+(b) $\forall x \forall y (x < y \rightarrow \exists z (x < z < y))$  
+
+> - True: In the real numbers ($ \mathbb{R} $), average of $x$ and $y$ could be $z$ at any time.
+> - False: In the integers ($ \mathbb{Z} $), because there are no integers between certain consecutive numbers.
+
+(c) $\exists x \forall y \forall z (y < z \rightarrow y \leq x \leq z)$  
+
+> - True: In natural numbers ($ \mathbb{N} $).
+> - False: In real numbers ($ \mathbb{R} $).

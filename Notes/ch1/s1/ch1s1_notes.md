@@ -1,4 +1,4 @@
-# Chapter 1 Notes on Logic & Proofs
+# Chapter 1 Section 1 Notes on Logic & Proofs
 
 ## Vocab
 

@@ -4,7 +4,7 @@
 
 - Truth Table
 
-> A method to deduce relationships between logical statements. Ex. $P \rightarrow Q$ is the same as $\neg P \or Q$, and this can be found using truth tables.
+> A method to deduce relationships between logical statements. Ex. $P \rightarrow Q$ is the same as $\neg P \lor Q$, and this can be found using truth tables.
 
 - Tautology
 

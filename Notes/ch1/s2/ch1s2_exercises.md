@@ -1,4 +1,4 @@
-# Addition Exercises Chapter 1
+# Addition Exercises Chapter 1 Section 2
 
 ## Reading Questions
 ![reading1and2](./ch1s2images/Reading1and2.png)

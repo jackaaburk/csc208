@@ -26,3 +26,7 @@
 - Double negation is essentially just two negatives in math, it makes a positive.
 - Negations of implications are conjunctions.
 - You can't switch orders of quantifiers whilst still retaining logical equivalence between the statements.
+- You can pass negations past a quantifier, but then you must swap the type of the quantifier.
+- $\neg \forall x P(x) \text{ is equivalent to } \exists x \neg P(x)$.
+- $\neg \exists x P(x) \text{ is equivalent to } \forall x \neg P(x)$.
+- Boolean algebra is used to transform statements.

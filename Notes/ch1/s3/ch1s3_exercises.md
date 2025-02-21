@@ -53,12 +53,44 @@
 
 (c) Assuming the statement is true, what (if anything) can you conclude if you know there will be cake?
 
-> 
+> You cannot conclude anything.
 
 (d) Assuming the statement is true, what (if anything) can you conclude if you know there will not be cake?
 
-> 
+> P will be false, it will not be your birthday.
 
 (e) Suppose you found out that the statement was a lie. What can you conclude?
 
-> 
+> Using a truth table I generated, I found that there is only one row where the premise of the overall statement is only false when P is true and Q is false. Meaning, It is your birthday, but there is no cake.
+
+4. Geoff Poshingten is out at a fancy pizza joint and decides to order a calzone. When the waiter asks what he would like in it, he replies, “I want either pepperoni or sausage. Also, if I have sausage, then I must also include quail. Oh, and if I have pepperoni or quail, then I must also have ricotta cheese.”
+
+(a) Translate Geoff’s order into logical symbols.
+
+> Let:
+
+> $P$ = "Geoff has pepperoni"
+
+> $S$ = "Geoff has sausage"
+
+> $Q$ = "Geoff has quail"
+
+> $R$ = "Geoff has ricotta cheese"
+
+His order:
+
+($P \lor S$), ($S \rightarrow Q$), ($P \lor Q$) $\rightarrow R$
+
+(b) The waiter knows that Geoff is either a liar or a truth-teller (so either everything he says is false, or everything is true). Which is it?
+
+> Geoff is a liar, as each of the three parts of his order can be made false.
+
+(c) What, if anything, can the waiter conclude about the ingredients in Geoff’s desired calzone?
+
+> It must contain:
+
+> either pepperoni or sausage.
+
+> If it has sausage, then it must have quail as well.
+
+> If it has either pepperoni, it must have ricotta cheese as well.

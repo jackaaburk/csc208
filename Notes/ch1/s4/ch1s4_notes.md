@@ -29,3 +29,5 @@
 - Being paranoid with proofs is good, it can make you rethink proofs and verify them.
 
 - Like stated in the vocab, contrapositives can prove original statements since they're logically equivalent.
+
+- A proof that is valid has multiple solutions that are true, being solvable to something means there is only one solution.

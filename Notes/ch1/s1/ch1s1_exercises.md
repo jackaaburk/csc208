@@ -1,4 +1,4 @@
-# Addition Exercises Chapter 1
+# Additional Exercises Chapter 1
 
 ## Reading Questions
 1. Match each statement in symbols with its type of statement.

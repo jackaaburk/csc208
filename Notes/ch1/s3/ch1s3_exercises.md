@@ -1,4 +1,4 @@
-# Addition Exercises Chapter 1 Section 3
+# Additional Exercises Chapter 1 Section 3
 
 ## Reading Questions
 

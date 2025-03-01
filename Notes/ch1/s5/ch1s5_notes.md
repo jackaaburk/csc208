@@ -39,3 +39,13 @@
 > Two element subsets that contain vertices as the elements.
 
 ## Extra Notes
+
+- Some discrete structures pertain to particular ways of proving with standard proof techniques that apply to them.
+
+- A relation on set A is a set of ordered pairs from A.
+
+- Relations permeate all types of mathematics.
+
+- Two line notation can be used to describe a function where the top are inputs and the bottom are outputs.
+
+- Since graphs represent a type of relationship between elements, you can use graphs to represent many real-world situations.

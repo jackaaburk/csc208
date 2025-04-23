@@ -21,6 +21,8 @@ The principles of inclusion and exclusion states that $|A \cup B \cup C|$ can be
 
 - $|A \cup B \cup C| = |A| + |B| + |C| - |A \cap B| - |A \cap C| - |B \cap C| + |A \cap B \cap C|$
 
+This counts each of the people who watched any of the three movies. However, there is overlap and therefore overcounting. The principles solve this issue by subtracting each intersection. However, the intersection of each three movies ($|A \cap B \cap C|$) is both added thrice and removed thrice, making it uncounted completely. Which is why it is added at the end of the principle.
+
 Now, we can simply just plug in the amount of students per movie.
 
 $|A \cup B \cup C| = 29 + 24 + 27 - 10 - 13 - 17 + 8$ 

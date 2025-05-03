@@ -22,8 +22,8 @@
 
 ## c. The pizza parlor will list the 8 toppings in two equal-sized columns on their menu. How many ways can they arrange the toppings in the left column?
 
-- For c., we could use the entire permutation principle, but it's unnecessary. Since the quotient principle states $\begin{equation*}
-P(n,k) = \binom{n}{k} \cdot k! \end{equation*}$, we can just multiply our answer from the a. by $k!$ (which is 4!). This will give us 1680, which is the answer.
+- For c., we could use the entire permutation principle, but it's unnecessary. Since the quotient principle states $\begin{equation*}$ 
+$P(n,k) = \binom{n}{k} \cdot k! \end{equation*}$, we can just multiply our answer from the a. by $k!$ (which is 4!). This will give us 1680, which is the answer.
 
 # Exercise 10
 

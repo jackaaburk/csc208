@@ -1,5 +1,27 @@
 # Chapter 3.5 Exercise 1 and Additional Exercise 2 (11) Solution
 
+## Exercise 1
+
+> A multiset is a collection of objects, just like a set, but can contain an object more than once (the order of the elements still doesn’t matter). For example, $ \{1, 1, 2, 5, 5, 7\} $ is a multiset of size 6.
+
+---
+
+### (a) How many *sets* of size 5 can be made using the 10 numeric digits 0 through 9?
+
+Since sets do **not** allow duplicates and order doesn't matter, we use the combination formula:
+
+$ \binom{10}{5} = \frac{10!}{5!(10 - 5)!} = \boxed{252} $
+
+---
+
+### (b) How many *multisets* of size 5 can be made using the 10 numeric digits 0 through 9?
+
+Multisets allow repeated elements, and order still doesn't matter. This is a combination **with** repetition:
+
+$ \binom{10 + 5 - 1}{5} = \binom{14}{5} = \boxed{2002} $
+
+
+
 ## Additional Exercise 2
 
 ### 2. Solve the three counting problems below. Then say why it makes sense that they all have the same answer. That is, say how you can interpret them as each other.

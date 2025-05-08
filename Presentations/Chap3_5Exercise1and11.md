@@ -10,7 +10,7 @@
 
 Since sets do **not** allow duplicates and order doesn't matter, we use the combination formula:
 
-$ \binom{10}{5} = \frac{10!}{5!(10 - 5)!} = \boxed{252} $
+$\binom{10}{5} $ $=$ $\frac{10!}{5!(10 - 5)!}$ $=$ $\boxed{252}$
 
 ---
 
@@ -18,7 +18,7 @@ $ \binom{10}{5} = \frac{10!}{5!(10 - 5)!} = \boxed{252} $
 
 Multisets allow repeated elements, and order still doesn't matter. This is a combination **with** repetition:
 
-$ \binom{10 + 5 - 1}{5} = \binom{14}{5} = \boxed{2002} $
+$\binom{10 + 5 - 1}{5}$ $=$ $\binom{14}{5}$ $=$ $\boxed{2002}$
 
 
 
@@ -42,11 +42,15 @@ $\binom{10}{2}$
 
 Which equals $45$.
 
+---
+
 #### (b) How many solutions in non-negative integers are there to $x + y + z = 8$
 
 - We just answered this question in (a). Since each kid represents a variable, and the 8 cookies can be divided in any way as long as each kid gets a cookie amount greater than or equal to 0, it can be represented as $x + y + z = 8$. 
 
 - Thus, our answer is 45.
+
+---
 
 #### (c) How many different packs of 8 crayons can you make using crayons that come in red, blue, and yellow?
 

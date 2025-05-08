@@ -10,7 +10,7 @@
 
 Since sets do **not** allow duplicates and order doesn't matter, we use the combination formula:
 
-$\binom{10}{5} $ $=$ $\frac{10!}{5!(10 - 5)!}$ $=$ $\boxed{252}$
+$\binom{10}{5}$ $=$ $\frac{10!}{5!(10 - 5)!}$ $=$ $\boxed{252}$
 
 ---
 

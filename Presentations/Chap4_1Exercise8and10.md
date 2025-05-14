@@ -3,7 +3,7 @@
 ## Exercise 8
 
 **Given:**  
-$a_n = 2a_{n-1} - a_{n-2}, \quad \text{with } a_1 = 1 \text{ and } a_2 = 2$
+$a_n$  = $2a_{n-1} - a_{n-2}, \quad \text{with } a_1 = 1 \text{ and } a_2 = 2$
 
 **Step 1: Characteristic Equation**  
 

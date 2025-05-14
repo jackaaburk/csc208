@@ -1,5 +1,50 @@
 # Chapter 4.1 Additional Exercise 8 and Additional Exercise 10 Solution
 
+## Exercise 8
+
+**Given:**  
+$a_n = 2a_{n-1} - a_{n-2}, \quad \text{with } a_1 = 1 \text{ and } a_2 = 2$
+
+**Step 1: Characteristic Equation**  
+
+Assume a solution of the form  
+$a_n = r^n$.  
+Then:  
+$r^n = 2r^{n-1} - r^{n-2}$  
+$\Rightarrow \frac{r^n}{r^{n-2}} = \frac{2r^{n-1}}{r^{n-2}} - \frac{r^{n-2}}{r^{n-2}}$  
+$\Rightarrow r^2 = 2r - 1$  
+$\Rightarrow r^2 - 2r + 1 = 0$  
+$\Rightarrow (r - 1)^2 = 0$  
+
+So, we have a repeated root  
+$r = 1$.
+
+**Step 2: General Solution**  
+
+Since the root is repeated, the general solution is:  
+$a_n = (A + Bn) \cdot 1^n = A + Bn$.
+
+**Step 3: Use Initial Conditions**  
+
+$\begin{cases} $
+$a_1 = A + B \cdot 1 = 1 \\$
+$a_2 = A + B \cdot 2 = 2$
+$\end{cases}$ 
+$\Rightarrow$
+$\begin{cases}$
+$A + B = 1 \\$
+$A + 2B = 2$
+$\end{cases}$  
+
+Subtracting the first equation from the second:  
+$(A + 2B) - (A + B) = 2 - 1$  
+$\Rightarrow B = 1$  
+$\Rightarrow A = 0$  
+
+**Final Answer:**  
+$\boxed{a_n = n}$
+
+
 ## Exercise 10
 
 ### Use summation ($\sum$) or product ($\prod$) notation to rewrite the following.

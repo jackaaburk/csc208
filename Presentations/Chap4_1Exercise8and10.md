@@ -67,7 +67,7 @@ $\sum_{k=1}^{n} 2k$
 
 Thus, the answer to (b) is $\sum_{k=1}^{107} (4k - 3)$.
 
-(c) $1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \cdots + \frac{1}{50}\text{.}$
+(c) $1$ $+$ $\frac{1}{2}$ $+$ $\frac{1}{3}$ $+$ $\frac{1}{4}$ $+$ $\cdots$ $+$ $\frac{1}{50}\text{.}$
 
 > - This is a summation of a harmonic series.
 

@@ -26,7 +26,7 @@ $a_n = (A + Bn) \cdot 1^n = A + Bn$.
 
 **Step 3: Use Initial Conditions**  
 
-$\begin{cases} a_1 = A + B \cdot 1 = 1 \\ a_2 = A + B \cdot 2 = 2 \end{cases} \Rightarrow \begin{cases} A + B = 1 \\ A + 2B = 2 \end{cases}$  
+$$\begin{cases} a_1 = A + B \cdot 1 = 1 \\ a_2 = A + B \cdot 2 = 2 \end{cases} \Rightarrow \begin{cases} A + B = 1 \\ A + 2B = 2 \end{cases}$$
 
 Subtracting the first equation from the second:  
 $(A + 2B) - (A + B) = 2 - 1$  

@@ -75,9 +75,9 @@ Thus, the answer to (b) is $\sum_{k=1}^{107} (4k - 3)$.
 
 > - However, since each term's denominator is equal to k, we know that the number of terms is $50$.
 
-Thus, the answer to (c) is $\sum_{k=1}^{50} \frac{1}{k}$.
+Thus, the answer to (c) is $ \sum_{k=1}^{50} \frac{1}{k} $.
 
-(d) $2 \cdot 4 \cdot 6 \cdot \cdots \cdot 2n\text{.}$
+(d) $ 2 \cdot 4 \cdot 6 \cdot \cdots \cdot 2n\text{.} $
 
 > - Since we are multiplying each term, this is a product of numbers.
 
@@ -85,12 +85,12 @@ Thus, the answer to (c) is $\sum_{k=1}^{50} \frac{1}{k}$.
 
 > - Additionally, the last term is 2n, meaning the number of terms is infinite.
 
-Thus, the answer for (d) is $\prod_{k=1}^{n} 2k$
+Thus, the answer for (d) is $ \prod_{k=1}^{n} 2k $
 
-(e) $(\frac{1}{2})(\frac{2}{3})(\frac{3}{4})\cdots(\frac{100}{101})\text{.}$
+(e) $ (\frac{1}{2})(\frac{2}{3})(\frac{3}{4})\cdots(\frac{100}{101})\text{.} $
 
 > - In this multiplicative sequence, both the numerator and denominator increase by 1 at a time, the denominator just has a head start by one.
 
 > - Additionally, we know our last term will be 100, since the last numerator is 100 and our starting term's numerator is 1.
 
-Thus, with this information, we can conclude that the answer to (e) is $\prod_{k=1}^{100} \frac{k}{k+1}$.
+Thus, with this information, we can conclude that the answer to (e) is $ \prod_{k=1}^{100} \frac{k}{k+1} $.

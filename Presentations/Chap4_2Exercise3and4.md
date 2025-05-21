@@ -6,6 +6,8 @@ Find a closed formula for the sequence that starts $2, 4, 6, 8 \cdot \cdot \cdot
 
 - Arithmetic sequence
 
+- The formula for an arithmetic sequence is: $a_n = a_0 + n \cdot d$
+
 - To make it so we can find $a_n$ at any point, we can just add a coefficient of common difference.
 
 - Since $a_0 = 2$, we need to also add 2.
@@ -17,10 +19,10 @@ Find a closed formula for the sequence that starts $2, 4, 6, 8 \cdot \cdot \cdot
 **Problem:** Find a closed formula for the sequence that starts
 
 
-15, 18, 21, 24, 27, …
+15, 18, 21, 24, 27, ...
 
 
-Assume \\(a_0 = 15\\).
+Assume $a_0 = 15$.
 
 
 **Solution:**

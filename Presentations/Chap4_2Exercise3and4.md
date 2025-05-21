@@ -45,4 +45,4 @@ $a_n = 15 + 3 \cdot n$
 
 **Answer:**
 
-$boxed{a_n = 15 + 3n}$
+$a_n = 15 + 3n$

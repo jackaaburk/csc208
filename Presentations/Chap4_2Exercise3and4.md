@@ -28,19 +28,19 @@ Assume \\(a_0 = 15\\).
 
 This is an arithmetic sequence with:
 
-\\[ a_0 = 15, \quad \text{common difference } d = 3 \\]
+$a_0 = 15, \quad \text{common difference } d = 3$
 
 
 The general formula for an arithmetic sequence is:
 
-\\[ a_n = a_0 + n \cdot d \\]
+$a_n = a_0 + n \cdot d$
 
 
 Substituting in the known values:
 
-\\[ a_n = 15 + 3 \cdot n \\]
+$a_n = 15 + 3 \cdot n$
 
 
 **Answer:**
 
-\\[ \boxed{a_n = 15 + 3n} \\]
+$boxed{a_n = 15 + 3n}$
